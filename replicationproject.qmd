@@ -212,6 +212,11 @@ ggplot(df) +
   coord_cartesian(clip = "off")
 ```
 
+## My Replication
+
+<img src="rep.png" width="500"/>
+
+
 ## Original Graph
 
 <img src="Russian hybrid warfare activity.png" width="500"/>
