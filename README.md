@@ -1,6 +1,3 @@
-# myrepo
-Repository for testing my Git/GitHub setup
-
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -10,7 +7,7 @@ Repository for testing my Git/GitHub setup
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data Visualization Project: graph replication</title>
+<title>Replication Project</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,16 +57,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </style>
 
 
-<script src="myproject_files/libs/clipboard/clipboard.min.js"></script>
-<script src="myproject_files/libs/quarto-html/quarto.js"></script>
-<script src="myproject_files/libs/quarto-html/popper.min.js"></script>
-<script src="myproject_files/libs/quarto-html/tippy.umd.min.js"></script>
-<script src="myproject_files/libs/quarto-html/anchor.min.js"></script>
-<link href="myproject_files/libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="myproject_files/libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="myproject_files/libs/bootstrap/bootstrap.min.js"></script>
-<link href="myproject_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="myproject_files/libs/bootstrap/bootstrap-1bc8a17f135ab3d594c857e9f48e611b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="replicationproject_files/libs/clipboard/clipboard.min.js"></script>
+<script src="replicationproject_files/libs/quarto-html/quarto.js"></script>
+<script src="replicationproject_files/libs/quarto-html/popper.min.js"></script>
+<script src="replicationproject_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="replicationproject_files/libs/quarto-html/anchor.min.js"></script>
+<link href="replicationproject_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="replicationproject_files/libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="replicationproject_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="replicationproject_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="replicationproject_files/libs/bootstrap/bootstrap-1bc8a17f135ab3d594c857e9f48e611b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 
 
 </head>
@@ -82,7 +79,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data Visualization Project: graph replication</h1>
+<h1 class="title">Replication Project</h1>
 </div>
 
 
@@ -331,11 +328,15 @@ The following object is masked from 'package:readr':
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="myproject_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<p><img src="replicationproject_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 </div>
 </div>
+</section>
+<section id="my-replication-1" class="level2">
+<h2 class="anchored" data-anchor-id="my-replication-1">My Replication</h2>
+<p><img src="rep.png" width="500"></p>
 </section>
 <section id="original-graph" class="level2">
 <h2 class="anchored" data-anchor-id="original-graph">Original Graph</h2>
